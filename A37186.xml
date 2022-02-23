@@ -1,0 +1,863 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Feed my lambs, or, A small systeme of divinity minced into a catechism and fitted for the instruction of children and young beginners in Christianity it may serve also for an exposition of the catechism in the liturgy of our church, the greatest part thereof, being as it falleth into the method, with some little variation, taken into it / by J.D., M. of A.</title>
+            <author>J. D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37186</idno>
+            <idno type="STC">Wing D34</idno>
+            <idno type="STC">ESTC R40375</idno>
+            <idno type="EEBO-CITATION">18970783</idno>
+            <idno type="OCLC">ocm 18970783</idno>
+            <idno type="VID">108509</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108509)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1667:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Feed my lambs, or, A small systeme of divinity minced into a catechism and fitted for the instruction of children and young beginners in Christianity it may serve also for an exposition of the catechism in the liturgy of our church, the greatest part thereof, being as it falleth into the method, with some little variation, taken into it / by J.D., M. of A.</title>
+                  <author>J. D.</author>
+               </titleStmt>
+               <extent>[4], 12  p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.H. for Samuel Richards ... and sold by Luke Meredith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXVI [1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Catechisms.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108509:1" rendition="simple:additions"/>
+            <p>Feed my Lambs. OR, <hi>A Small Syſteme of Divinity</hi> Minced into a CATECHISM, AND Fitted for the Inſtruction of Children and young Beginners in Chriſtianity.</p>
+            <p>It may ſerve alſo for an Expoſition of the Catechiſm in the Liturgy of our Church, the greateſt part thereof, being as it falleth into the Method, with ſome little Variation, taken into it.</p>
+            <p>By <hi>J. D. M.</hi> of <hi>A.</hi>
+            </p>
+            <q>This is life eternal, that they might know thee the onely true God, and Jeſus Chriſt whom thou haſt ſent.
+<bibl>John 17.3.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. H.</hi> for <hi>Samuel Richards</hi> Bookſel<g ref="char:EOLhyphen"/>ler in <hi>Nottingham,</hi> and ſold by <hi>Luke Me<g ref="char:EOLhyphen"/>redith</hi> at the <hi>Kings-Head</hi> in St. <hi>Paul</hi>'s Church-Yard. MDCLXXXVI.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:108509:2"/>
+            <p>IMPRIMATUR.</p>
+            <closer>
+               <dateline>
+                  <hi>Ex Aed.</hi> Lam<g ref="char:EOLhyphen"/>beth. <date>Nov. 19. <hi>A. D.</hi> 1685.</date>
+               </dateline>
+               <signed>Guil. Needham <hi>R<hi rend="sup">mo.</hi> in Chriſto P. ac D.D.</hi> Wil<g ref="char:EOLhyphen"/>helmo, <hi>Archiep.</hi> Cant. <hi>a Sacr. Domeſt.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <p>THere is now in the Preſs a Book intituled, <hi>Reſt for the Heavy-laden, promiſed by our onely Lord and Saviour Jeſus Chriſt to all ſincere Believers, practically diſcourſed upon.</hi> Written by <hi>Clement Elis</hi> Rector of <hi>Kirkby</hi> in <hi>Nottinghamſhire.</hi> Printed for <hi>Luke Meredith</hi> at the <hi>Kings-Head</hi> in St. <hi>Paul</hi>'s Church-yard.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:108509:2"/>
+            <head>To the Honourable <hi>George</hi> Lord <hi>Haſtings,</hi> Son to the Right Honourable <hi>Theophilus,</hi> Earl of <hi>Huntingdon.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THat which amongſt the many compo<g ref="char:EOLhyphen"/>ſures of this nature, can with the greateſt advantage, recommend this unto your Lordſhip, is that being little, it con<g ref="char:EOLhyphen"/>tains much in that little, is both ſhort and full, methodical in its connexion, and per<g ref="char:EOLhyphen"/>ſpicuous in its brevity. And that your Lordſhip may perceive, how eaſie it is upon theſe accounts both to be learned and re<g ref="char:EOLhyphen"/>membred: let but a few of the queſtions herein be asked, the anſwers thereto given, and a few more added upon every repetition, and the profit thereof will be found ſweetly mixed with a ſpeedy, pleaſant, and happy
+<pb facs="tcp:108509:3"/>progreſs. I need not tell the world of your Lordſhips greatneſs, the Nobility of your birth, and early hopes, have done that ſo much already; that all that is now neceſſary, is onely to propound a way for its confirma<g ref="char:EOLhyphen"/>tion. And ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rely there is no better founda<g ref="char:EOLhyphen"/>tion for the ſupport of Greatneſs than that of Religion, nor can that be better laid, than by an early inſtruction in the true principles thereof: this being the training up a child in the way that he ſhould goe.
+<note place="margin">Prov. 22.6.</note> That your Lordſhip therefore may by ſuch training, become an experienc'd, and truly valiant Souldier of Jeſus Chriſt, the great Captain of your Salvation, and be both as great an Example of goodneſs your ſelf, and as great an Encourager of it in others, as any of your Noble Predeceſſors have been: is, as the deſire and deſign of your great Parent, ſo in an humble compliance with them, the hearty Prayers, and as far as this may be aſſiſtant to you therein, the earneſt endeavour, of</p>
+            <closer>
+               <signed>Your Lordſhip's Moſt Humble Servant, <hi>J. D.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb n="1" facs="tcp:108509:3"/>
+            <head>A Short Summ of Chriſtian Doc<g ref="char:EOLhyphen"/>trines and Principles.</head>
+            <p>Q <hi>
+                  <g ref="char:V">Ʋ</g>eſtion.</hi> Who cauſed you to be?</p>
+            <p>Anſwer. <hi>God.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Why or to what end did God cauſe you to be?</p>
+            <p>A. <hi>To ſerve him.</hi>
+            </p>
+            <p>Q. How will God be ſerved?</p>
+            <p>A. <hi>According to his word.</hi>
+            </p>
+            <p>Q. Wherein is God's word contained?</p>
+            <p>A. <hi>In the Bible, or Cononical Books of the Old and New Teſtament.</hi>
+            </p>
+            <p>Q. How do you prove that the word of God is contai<g ref="char:EOLhyphen"/>ned in thoſe Books?</p>
+            <p>A. <hi>By the Teſtimony of the Spirit, the Church, and word it ſelf, or by the Doctrine, Efficacy and Harmony of it.</hi>
+            </p>
+            <p>Q. What doth the Bible teach you?</p>
+            <p>A. <hi>The knowledge of God, and Jeſus Chriſt.</hi>
+            </p>
+            <p>Q. What is God?</p>
+            <p>A. <hi>A Spirit of infinite perfections.</hi>
+            </p>
+            <p>Q. How many Gods be there?</p>
+            <p>A. <hi>One God.</hi>
+            </p>
+            <p>Q. How is this one God diſtinguiſhed.</p>
+            <p>A. <hi>Into three Perſons: or into a Trinity of Perſons.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Which be they.</p>
+            <p>A <hi>The Father or</hi> 1ſt <hi>the Son or</hi> 2d. <hi>the Holy Ghoſt or</hi> 3d.</p>
+            <p>
+               <hi>Q.</hi> How do you prove that there is a God?</p>
+            <p>A. <hi>By his Attributes, or infinite perfections diſcovered in his word and works.</hi>
+            </p>
+            <p>
+               <hi>Q</hi> In what works eſpecially are thoſe perfections diſ<g ref="char:EOLhyphen"/>covered?</p>
+            <p>A. <hi>In his works of Creation and Providence.</hi>
+            </p>
+            <pb n="2" facs="tcp:108509:4"/>
+            <p>
+               <hi>Q.</hi> What is creation?</p>
+            <p>
+               <hi>A. God's making all things of nothing.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What is his Providence?</p>
+            <p>
+               <hi>A. His preſerving and governing all things made.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Which are the ſpecial Creatures made, preſerved and governed by God?</p>
+            <p>
+               <hi>A. Angels and men.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What was the ſtate of man by creation?</p>
+            <p>
+               <hi>A. Very good.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Did man continue in that good Eſtate?</p>
+            <p>
+               <hi>A. No, but he fell from it by Sin.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What is fin?</p>
+            <p>
+               <hi>A. A breach of God's law.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What was mans firſt Sin?</p>
+            <p>
+               <hi>A. Eating the forbidden Fruit.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What fruit was that?</p>
+            <p>
+               <hi>A. The fruit of the tree of knowledge of good and evil.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Who was it that did eat of that fruit?</p>
+            <p>
+               <hi>A. Adam.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Did all Mankind ſin in <hi>Adam?</hi>
+            </p>
+            <p>
+               <hi>A. Yes, for we were all in his Loynes.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What is the Eſtate of all men by reaſon of <hi>Adams</hi> Fall?</p>
+            <p>
+               <hi>A. A ſtate of bondage.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> How doth that appear?</p>
+            <p>
+               <hi>A. From the corruption of our natures.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What is that Corruption commonly called?</p>
+            <p>
+               <hi>A. Original ſin.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Wherein doth Original ſin conſiſt?</p>
+            <p>
+               <hi>A. In an averſeneſs to good, and proneneſs to evil.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What other ſins do proceed from Original ſin?</p>
+            <p>
+               <hi>A. All actual ſins.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What puniſhments are due to man for theſe ſins?</p>
+            <p>
+               <hi>A. All woe and miſery, temporal, ſpiritual and eternal.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Being by nature in this ſtate of miſery, how may we get out of it and recover happineſs?</p>
+            <p>
+               <hi>A. Onely by Jeſus Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What is Jeſus Chriſt?</p>
+            <p>
+               <hi>A. The eternal Son of God, and Saviour of man.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> How many things are we to conſider in Chriſt?</p>
+            <pb n="3" facs="tcp:108509:4"/>
+            <p>A. <hi>Two, his Perſon and his Office.</hi>
+            </p>
+            <p>Q. What is his Perſon?</p>
+            <p>A. <hi>God and Man united in one Perſon.</hi>
+            </p>
+            <p>Q. Being God before all time, how could he be made Man?</p>
+            <p>A. <hi>By being conceived by the Holy Ghoſt, and born of the Virgin</hi> Mary.</p>
+            <p>Q. Why was he God?</p>
+            <p>A. <hi>That he might bear the weight of God's wrath.</hi>
+            </p>
+            <p>Q. Why was he Man?</p>
+            <p>A. <hi>That he might be capable of dying for us.</hi>
+            </p>
+            <p>Q. What was Chriſt's office?</p>
+            <p>A. <hi>To be a Mediatour to reconcile God and Man.</hi>
+            </p>
+            <p>Q. How did he that?</p>
+            <p>A. <hi>By his active obedience or fulfilling the law, and by his paſſive or ſufferings.</hi>
+            </p>
+            <p>Q. By what ſufferings eſpecially?</p>
+            <p>A. <hi>By his ſuffering death upon the Croſs.</hi>
+            </p>
+            <p>Q. How are we made partakers of the benefits of Chriſt's ſufferings?</p>
+            <p>A. <hi>By our Faith in him.</hi>
+            </p>
+            <p>Q. What is Faith?</p>
+            <p>A. <hi>A receiving Chriſt upon his own terms for Salvation.</hi>
+            </p>
+            <p>Q. What are thoſe terms of Salvation, upon which Chriſt is by Faith to be received?</p>
+            <p>A. <hi>A Repentance and Obedience.</hi>
+            </p>
+            <p>Q. What is Repentance?</p>
+            <p>A. <hi>A Grace by which, upon a due ſight of and ſorrow for ſin, we are turned from it to God, both in heart and life.</hi>
+            </p>
+            <p>Q. What is Obedience?</p>
+            <p>A. <hi>A ſincere and faithfull performance of God's Com<g ref="char:EOLhyphen"/>mandments.</hi>
+            </p>
+            <p>Q. How is that Faith by which we receive Chriſt upon theſe terms, wrought in us?</p>
+            <p>A. <hi>Outwardly by the preaching of the word, and inward<g ref="char:EOLhyphen"/>ly by the ſpirit.</hi>
+            </p>
+            <p>Q. How is it encreaſed?</p>
+            <p>A. <hi>By the ſame word preached, and alſo by praying as the ordinary means thereof.</hi>
+            </p>
+            <pb n="4" facs="tcp:108509:5"/>
+            <p>Q. What is Prayer?</p>
+            <p>A. <hi>It is a coming to, and calling upon God in and through Chriſt, with the heart and voice, or with the heart onely, for our ſelves or others.</hi>
+            </p>
+            <p>Q. How muſt we pray?</p>
+            <p>A. <hi>In faith with reverence, fervency and charity.</hi>
+            </p>
+            <p>Q. What Prayer was that which Chriſt taught his Diſci<g ref="char:EOLhyphen"/>ples?</p>
+            <p>A. <hi>The Lords Prayer. Say it, Our Father,</hi> &amp;c.</p>
+            <p>Q. How many things are we to conſider in the Lord's Prayer?</p>
+            <p>A. <hi>Three, the Preface, the Prayer it ſelf, and the Con<g ref="char:EOLhyphen"/>cluſion.</hi>
+            </p>
+            <p>Q. What is the Preface?</p>
+            <p>A. <hi>Our Father which art in Heaven.</hi>
+            </p>
+            <p>Q. How many things are we to conſider in the Prayer it ſelf?</p>
+            <p>A. <hi>Two, the Petitions and the Thanksgivings.</hi>
+            </p>
+            <p>Q. How many Petitions are there?</p>
+            <p>A. <hi>Six.</hi>
+            </p>
+            <p>Q. Whom do the three firſt concern?</p>
+            <p>A. <hi>God.</hi>
+            </p>
+            <p>Q. Whom do the three laſt concern?</p>
+            <p>A. <hi>
+                  <g ref="char:V">Ʋ</g>s.</hi>
+            </p>
+            <p>Q. What deſireſt thou of God in the three firſt Petitions?</p>
+            <p>A. <hi>I deſire my Lord God our heavenly Father, who is the</hi>
+               <list>
+                  <item>1 Pet. <hi>Governour of the World. In the firſt that he will give his Grace unto me, and to all people, that we may worſhip him, and glorifie his name.</hi>
+                  </item>
+                  <item>2 Pet. <hi>In the ſecond, that we may endeavour the en<g ref="char:EOLhyphen"/>larging and promoting of his Kingdom.</hi>
+                  </item>
+                  <item>3 Pet. <hi>In the third, that we may obey him, keep his Laws, and ſerve him as we ought to doe.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Q. What deſireſt thou of God in the three laſt Petitions?</p>
+            <p>A. <hi>I deſire of God the giver of all good things, Firſt, That</hi>
+               <list>
+                  <item>4 Pet. <hi>he will give unto me, and unto all people, all things, that be needfull both for our Souls and Bodies.</hi>
+                  </item>
+                  <item>5 Pet. <hi>Secondly, That he will be mercifull unto us, and forgive us all our ſins, as we forgive men their treſpaſſes againſt us.</hi>
+                  </item>
+                  <pb n="5" facs="tcp:108509:5"/>
+                  <item>6 Pet. <hi>Thirdly, That it will pleaſe him to defend us from all dangers, both of our outward and in<g ref="char:EOLhyphen"/>ward man, and that he will keep us from ſin, Satan, and everlaſting death.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Q. What is the Thanksgiving?</p>
+            <p>
+               <hi>A. For thine is the Kingdom, the Power and the Glory, for ever and ever.</hi>
+            </p>
+            <p>Q. What is the concluſion?</p>
+            <p>
+               <hi>A. Amen.</hi>
+            </p>
+            <p>Q. What doth <hi>Amen</hi> here ſignifie?</p>
+            <p>A. <hi>So be it, or this I truſt God will do of his mercy and goodneſs, in and through our Lord Jeſus Chriſt, and therefore I ſay Amen, So be it.</hi>
+            </p>
+            <p>Q. What muſt we do after we have prayed?</p>
+            <p>
+               <hi>A. We muſt obſerve what anſwer we receive.</hi>
+            </p>
+            <p>Q. What if we have prayed often, and received no an<g ref="char:EOLhyphen"/>ſwer?</p>
+            <p>
+               <hi>A. We muſt examine our ſelves how we have prayed, and continue ſtill praying, and waiting on God, for what anſwer he in his good time ſhall think fit to give.</hi>
+            </p>
+            <p>Q. Who can or may pray with hope to be heard?</p>
+            <p>
+               <hi>A. Onely they that are unwilling to ſin.</hi>
+            </p>
+            <p>Q. For whom muſt we pray?</p>
+            <p>
+               <hi>A. For our ſelves, and all others, that now live, or ſhall live hereafter, but not for the dead.</hi>
+            </p>
+            <p>Q. And why not for the Dead?</p>
+            <p>
+               <hi>A. Becauſe if their Souls be in Heaven they need not our Prayers, and if in Hell our Prayers cannot bring them out.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> You ſaid that Faith was encreaſed by hearing the word preached and praying, as ſome of the ordinary means thereof, by what other ordinary means may it be encreaſed.</p>
+            <p>A. <hi>By reading, and hearing the Scriptures read, and by meditation and conference.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> By what more eſpecial and extraordinary means may it be encreaſed?</p>
+            <p>A. <hi>By religious vowing, faſting, and feaſting, and eſpe<g ref="char:EOLhyphen"/>cially at the Lords Table.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> When are we ſaid to feaſt at the Lords Table?</p>
+            <pb n="6" facs="tcp:108509:6"/>
+            <p>
+               <hi>A. When we receive the Sacrament of his Supper.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What is a Sacrament?</p>
+            <p>
+               <hi>A. A ſeal of the Covenant of Grace.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Whom is that Covenant betwixt?</p>
+            <p>
+               <hi>A. Betwixt God and Man.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> In what words is it expreſſed in the Scripture?</p>
+            <p>
+               <hi>A. In theſe words, I will be thy God, and you ſhall be my people.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> When do we perſonally enter into this Covenant?</p>
+            <p>
+               <hi>A. When we are baptized.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> How many parts be there in a Sacrament?</p>
+            <p>
+               <hi>A. Two, the outward ſign, and inward grace, benefit or thing ſignified.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> How many are the Sacraments of the New Teſta<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <hi>A. Two, Baptiſm and the Lord's Supper.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What is Baptiſm?</p>
+            <p>
+               <hi>A. A Sacrament wherein we enter into the aforeſaid Co<g ref="char:EOLhyphen"/>venant with God, and are made members of his viſible Church.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What is the outward ſign in Baptiſm?</p>
+            <p>
+               <hi>A. A Water, wherewith the party is baptized, in the Name of the Father, the Son and Holy Ghoſt.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What is the inward Grace, benefit or thing ſignified?</p>
+            <p>
+               <hi>A. Pardon of ſin and ſanctification.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What is required of thoſe that are to be baptized?</p>
+            <p>
+               <hi>A. That they profeſs their willingneſs to forſake ſin, and believe in Chriſt, and that they promiſe ſo to doe, ei<g ref="char:EOLhyphen"/>ther by themſelves, if they be of age, or by their ſureties, if Infants.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> By whom did you make this Profeſſion and promiſe, by your ſelf or ſureties?</p>
+            <p>
+               <hi>A. By my Sureties.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> How many things did they promiſe for you?</p>
+            <p>
+               <hi>A. They did promiſe and vow three things in my Name,</hi> 1ſt. <hi>That I ſhould renounce the Devil, and all his works, the pomps and vanities of this wicked world, and all the ſinfull luſts of the fleſh.</hi> 2dly. <hi>That I ſhould believe all the Articles of the Chriſtian Faith.</hi> 3dly. <hi>That I ſhould keep God's holy Will and Commandments, and walk in the ſame all the days of my life.</hi>
+            </p>
+            <pb n="7" facs="tcp:108509:6"/>
+            <p>
+               <hi>Q.</hi> Are Infants baptiſed bound to perform the things thus promiſed for them in their Baptiſm?</p>
+            <p>
+               <hi>A. Yes ſo ſoon as they are of age to underſtand what they are.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Doeſt thou in particular think that thou art bound to doe as they have promiſed for thee?</p>
+            <p>
+               <hi>A. Yes verily, and by God's help ſo I will. And I heartily thank our heavenly Father, that he hath called me to this ſtate of ſalvation through Jeſus Chriſt our Saviour. And I pray unto God to give me his grace, that I may continue in the ſame unto my lives end.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> You ſaid that faith was encreaſed by hearing the word and praying, and more eſpecially receiving the Lord's Supper. What is the Lord's Supper?</p>
+            <p>
+               <hi>A. A Sacrament ordained by Chriſt, for the ſhewing forth of his death, canfirming our baptiſmal Covenant, and encreaſing our faith. love and other graces.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What are the outward ſigns in this Sacrament?</p>
+            <p>
+               <hi>A. Bread and Wine with the actions pertaining to them.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What do the Bread and Wine in the Lord's Supper ſignifie?</p>
+            <p>
+               <hi>A. The Body and Bloud of Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What are the actions belonging to the bread and wine?</p>
+            <p>
+               <hi>A. Taking, bleſſing, breaking, giving, receiving, eating, and drinking.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> To whom do the actions of taking, bleſſing, break<g ref="char:EOLhyphen"/>ing and giving belong?</p>
+            <p>
+               <hi>A. To the Miniſter.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> To whom do the actions of receiving, eating, and drinking belong?</p>
+            <p>
+               <hi>A. to the Communicants.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What doth the Miniſters taking the bread and the cup ſignifie?</p>
+            <p>
+               <hi>A. God's ſanctifying them or ſeparating them from a com<g ref="char:EOLhyphen"/>mon and ordinary, to a ſacramental uſe.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What is that ſacramental uſe?</p>
+            <p>
+               <hi>A To ſignifie Chriſt's being ſet apart by him to be our Saviour.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What doth his bleſſing the bread and wine ſignifie?</p>
+            <p>
+               <hi>A. His thanking God, and praying for his bleſſing upon them.</hi>
+            </p>
+            <pb n="8" facs="tcp:108509:7"/>
+            <p>
+               <hi>Q.</hi> What doth his breaking the bread ſignifie?</p>
+            <p>
+               <hi>A The breaking of Chriſt's Body on the Croſs.</hi>
+            </p>
+            <p>
+               <hi>Q</hi> What doth his giving the bread and cup to the Com<g ref="char:EOLhyphen"/>municants ſignifie?</p>
+            <p>
+               <hi>A. God's offering, and giving Chriſt, with all his benefits.</hi>
+            </p>
+            <p>
+               <hi>Q</hi> What doth the Communicants receiving the bread and wiue ſignifie?</p>
+            <p>
+               <hi>A. His receiving Chriſt by Faith.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What is eating the bread and drinking the wine?</p>
+            <p>
+               <hi>A. His feeding upon Chriſt crucified by Faith, as on ſpiritual food.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What is ſignified by the bread and wine thus received and fed upon in the Lords Supper?</p>
+            <p>
+               <hi>A. Chriſt crucified with all the benefits of his death and paſſion.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What are the benefits of Chriſt's death, which hereby we are made partakers of?</p>
+            <p>
+               <hi>A. The pardon of our ſins, the ſtrengthening of our gra<g ref="char:EOLhyphen"/>ces, and the refreſhing of our ſouls.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What are the ends for which we ſhould receive the Lords Supper?</p>
+            <p>
+               <hi>A. That we may remember Chriſt dying for us, and obtai<g ref="char:EOLhyphen"/>ning the aforeſaid benefits of his death and paſſion.</hi>
+            </p>
+            <p>Q. How may we ſo receive the Lords Supper as to be hereby made partakers of the benefits of Chriſt's death and paſſion?</p>
+            <p>
+               <hi>A By doing what is required of us before, in, and after our receiving it.</hi>
+            </p>
+            <p>
+               <hi>Q</hi> What is required of us before we receive it?</p>
+            <p>
+               <hi>A. That we examine our ſelves whether we truly repent of our ſins, believe in Chriſt Jeſus, have a thank full ſenſe of his mercy in dying for us, and true love to him and our brethren.</hi>
+            </p>
+            <p>
+               <hi>Q</hi> What is required of us in receiving?</p>
+            <p>
+               <hi>A. That exerciſing of our Repentance, faith love, and thank<g ref="char:EOLhyphen"/>fulneſs, with reverence and joy.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What is required of us after our receiving?</p>
+            <p>
+               <hi>A. That we examine our ſelves how we have recei<g ref="char:EOLhyphen"/>ved, be heartily thankfull to God for his goodneſs to us therein, firmly reſolve to walk carefully in his ways, and earneſtly endeavour to grow in grace.</hi>
+            </p>
+            <pb n="9" facs="tcp:108509:7"/>
+            <p>
+               <hi>Q.</hi> When are we to receive this Sacrament?</p>
+            <p>
+               <hi>A. When we underſtand the Doctrine, and can perform the duties of it.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What if we receive it unworthily?</p>
+            <p>
+               <hi>A. We are guilty of the body and bloud of Chriſt <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> eat and drink damnation to our ſelves.</hi>
+            </p>
+            <p>Q. You ſaid that Faith was wrought in us outward <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the word, and inwardly by the ſpirit, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> encreaſed by praying and receiving the L<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d's Su<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>per: can faith thus wrought, and increaſed in us be fruitleſs and unprofitable?</p>
+            <p>
+               <hi>A. No: for it worketh by love.</hi>
+            </p>
+            <p>Q What is one of the chief and principal works of it?</p>
+            <p>
+               <hi>A. Its purification of the heart.</hi>
+            </p>
+            <p>Q. How may we know when faith is thus wrought and encreaſed in us?</p>
+            <p>
+               <hi>A. By the fruits and effects of it.</hi>
+            </p>
+            <p>Q. What are the fruits and effects of faith?</p>
+            <p>
+               <hi>A. A loathing, renouncing and abhorring of ſin in our hearts, and a leaving, forſaking and turning from it in our lives,</hi>
+            </p>
+            <p>Q What elſe?</p>
+            <p>
+               <hi>A. Love and delight in that which is good with a ſincere deſire to pleaſe God in all things.</hi>
+            </p>
+            <p>Q. How may we pleaſe God in all things?</p>
+            <p>
+               <hi>A. By believing and doing what he requires.</hi>
+            </p>
+            <p>Q. What is the rule which God hath given us to direct us in our believing what he would have us to believe?</p>
+            <p>A. <hi>His whole written word, or the whole Bible with all the Truths, Doctrines, Promiſes &amp; Threatnings therein.</hi>
+            </p>
+            <p>Q What is the Summ of thoſe truths that are to be be<g ref="char:EOLhyphen"/>lieved by us?</p>
+            <p>A. <hi>The Creed, or that we commonly call the Apoſtles creed.</hi>
+            </p>
+            <p>Q. How are the doctrines or truths contained in this creed divided?</p>
+            <p>A. <hi>Into twelve Articles and a Concluſion.</hi>
+            </p>
+            <p>Q. Which are the twelve Articles?</p>
+            <p>
+               <hi>A.</hi> 1. <hi>I believe,</hi> &amp;c. 2 <hi>And in Jeſus,</hi> &amp;c. 3. <hi>which was con<g ref="char:EOLhyphen"/>ceived,</hi> 4. <hi>Suffered under,</hi> 5. <hi>He deſcended,</hi> 6. <hi>He aſcended,</hi> 7. <hi>From thence,</hi> 8. <hi>I believe,</hi> 9. <hi>the Holy,</hi> 10. <hi>the Forgive<g ref="char:EOLhyphen"/>neſs,</hi> 11. <hi>the Reſurrection,</hi> 12. <hi>the Life.</hi>
+            </p>
+            <pb n="10" facs="tcp:108509:8"/>
+            <p>
+               <hi>Q.</hi> What is the concluſion?</p>
+            <p>
+               <hi>A. Amen.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What doth <hi>Amen</hi> ſignifie here?</p>
+            <p>
+               <hi>A. So it is, or ſo, I believe it to be.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What doeſt thou chiefly learn in theſe Articles of thy Belief?</p>
+            <p>
+               <hi>A. In the firſt, I learn to believe in God the Father, the Creator, who made the World. In the</hi> 6 <hi>next, in God the Son, the Redeemer, and in the</hi> 5 <hi>laſt, in God the Holy Ghoſt, the Sanctifier of all the elect people of God.</hi>
+            </p>
+            <p>Q. What is the rule which God hath given us, to direct us in the doing of what he would have us to do?</p>
+            <p>
+               <hi>A. It is his holy and righteous Law, or the command<g ref="char:EOLhyphen"/>ments he hath given us in his word.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What is the Summ of thoſe Commandments?</p>
+            <p>
+               <hi>A. That which we call the Moral law, or the</hi> 10 <hi>Com<g ref="char:EOLhyphen"/>mandments given by God to the Iſraelites.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> How are theſe X Commandments divided?</p>
+            <p>
+               <hi>A. Into two Tables.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> How many are the Commandments of the 1ſt. Table?</p>
+            <p>
+               <hi>A. Four.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What do theſe four firſt Commandments teach us?</p>
+            <p>
+               <hi>A. Our duty towards God.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What duties towards God doth the firſt Commandment teach us?</p>
+            <p>
+               <hi>A. To believe in him, fear him, according to his word,</hi>
+               <list>
+                  <item>1ſt. <hi>to love him with all my ſoul, with all my heart, and with all my ſtrength.</hi>
+                  </item>
+                  <item>2d. <hi>The</hi> 2d. <hi>To worſhip him and him onely, in ſpirit and in truth, and to give thanks to him.</hi>
+                  </item>
+                  <item>3d. <hi>The</hi> 3d. <hi>to honour and reverence his holy Name and his word.</hi>
+                  </item>
+                  <item>4th. <hi>The</hi> 4th. <hi>to keep holy his day, and to ſerve him truly both that day and all the days of my life.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Q.</hi> How many are the Commandments of the 2d. Table?</p>
+            <p>
+               <hi>A. Six.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What do theſe ſix laſt Commandments teach us?</p>
+            <p>
+               <hi>A. Our duty towards our Neighbour.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What is thy duties towards thy Neighbour?</p>
+            <p>
+               <hi>A. My duty towards my Neighbour is to love him as my ſelf, and to do unto all men as I would they ſhould do unto me.</hi>
+            </p>
+            <pb n="11" facs="tcp:108509:8"/>
+            <p>
+               <hi>Q.</hi> What duties to thy Neighbour do theſe 6 laſt Com<g ref="char:EOLhyphen"/>mandments teach thee?</p>
+            <p>
+               <hi>A. The</hi> 1ſt. <hi>teacheth me to love, honour, and ſuccour my</hi>
+               <list>
+                  <item>5. <hi>Father and Mother, to honour and obey the King, and all that are put in authority under him, to ſub<g ref="char:EOLhyphen"/>mit my ſelf to all my Governours, Teachers, ſpiritual Paſtors and Maſters, and to order my ſelf lowly and reverently to all my betters.</hi>
+                  </item>
+                  <item>6. <hi>The</hi> 2d. <hi>teacheth me to bear no malice nor hatred in my heart, to hurt no body by word or deed, but to preſerve my own and others life and health.</hi>
+                  </item>
+                  <item>7. <hi>The</hi> 3d. <hi>teacheth me to keep my Body in temperance, ſoberneſs and chaſtity, and to preſerve and promote chaſtity and ſobriety in others.</hi>
+                  </item>
+                  <item>8. <hi>The</hi> 4th. <hi>teacheth me to be true and juſt in all my dealings, to keep my hands from picking and ſtealing, and to preſerve my own and my Neighbours Eſtate and Goods.</hi>
+                  </item>
+                  <item>9. <hi>The</hi> 5th. <hi>teacheth me to keep my tongue from evil ſpeaking, lying and ſlandering, and to maintain my own and my Neighbours good name and credit.</hi>
+                  </item>
+                  <item>10. <hi>The laſt teacheth me, not to covet nor deſire other mens goods, but to learn and labour to get my own living, and to do my duty in that ſtate of life, unto which it ſhall pleaſe God to call me.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Q.</hi> What is the Summ of this Law?</p>
+            <p>
+               <hi>A. Thou ſhalt love the Lord thy God with all thine heart, and thy Neighbour as thy ſelf.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Is any man able to keep this Law?</p>
+            <p>
+               <hi>A. No: not perfectly, for in many things we offend all but he may and muſt earneſtly ſtrive, and ſincerely endea<g ref="char:EOLhyphen"/>vour to keep it.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Should not a man therefore omit and give over doing of good, ſeeing he cannot do it ſo well as he ought?</p>
+            <p>
+               <hi>A. No: but he muſt ſtill ſtrive, and continue doing it as well as he can.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What if notwithſtanding we do ſtrive, and continue doing as well as we can, we yet break God's law and ſin?</p>
+            <p>
+               <hi>A. We muſt confeſs and bewail our ſins before God, reform our lives, and relying upon the promiſes of mercy and pardon through Chriſt, perſevere in doing our endea<g ref="char:EOLhyphen"/>vour unto our lives end.</hi>
+            </p>
+            <pb n="12" facs="tcp:108509:9"/>
+            <p>
+               <hi>Q.</hi> What is the ſtate of the Godly after this life?</p>
+            <p>
+               <hi>A. A ſtate of everlaſting reſt, joy and glory.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What is the ſtate of the wicked?</p>
+            <p>
+               <hi>A. A ſtate of endleſs woe and miſery.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> When ſhall the happineſs of the ſelect be compleat</p>
+            <p>
+               <hi>A. At the day of Judgment.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Who ſhall be Judge at that day?</p>
+            <p>
+               <hi>A. J. Chriſt, ordained of God to be Judge of quick &amp; dea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>
+               <hi>Q.</hi> When ſhall Chriſt come to Judgment?</p>
+            <p>
+               <hi>A. We are not told when he ſhall come, but we are bid t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> watch and prepare for his coming.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> How or in what way and manner ſhall he come?</p>
+            <p>
+               <hi>A. He ſhall come viſibly in the clouds, deſcending from heaven with a ſhout, the voice of the Archangel an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Trumpet of God, and he ſhall be moſt royally atten<g ref="char:EOLhyphen"/>ded with innumerable multitudes of mighty Angels.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Whom ſhall he Judge at his coming?</p>
+            <p>
+               <hi>A. The Apoſtate-Angels and Men and Women of all ſort<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>
+               <hi>Q.</hi> How ſhall thoſe be judged at that day whoſe bodie are rotted, turned into duſt, or eaten by birds, beaſt or fiſhes?</p>
+            <p>
+               <hi>A. They ſhall by the power of God be raiſed up, brought together, and have their ſouls united to them.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What are we to believe of them that ſhall be found alive at Chriſt's coming to Judgment?</p>
+            <p>
+               <hi>A. They ſhall be changed in the twinkling of an eye, and ſo preſented before the Judgment-ſeat of Chriſt.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What ſhall be the effect and iſſue of this Judgment to the Godly?</p>
+            <p>
+               <hi>A. A ſentence of bleſſedneſs.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> In what words is that ſente<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xpreſſed in the Scri<g ref="char:EOLhyphen"/>ptures?</p>
+            <p>
+               <hi>A. In theſe words: Come ye bleſſed of my Father, inheri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Kingdom prepared for you, from the foundation of the World.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> What ſhall be the effect and iſſue of it to the wicked</p>
+            <p>
+               <hi>A. A ſentence of curſedneſs.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> In what words is that ſentence expreſſed?</p>
+            <p>
+               <hi>A. In theſe words: Depart from me, ye curſed, into ever<g ref="char:EOLhyphen"/>laſting fire prepared for the Devil and his Angels.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:108509:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
